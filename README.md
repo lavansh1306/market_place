@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-**NextMart** is a modern, responsive inventory management dashboard built to help retail businesses track stock, manage products, and visualize inventory data. Designed with performance and user experience in mind, it utilizes the latest features of the Next.js App Router.
+**NextMart** is a modern, responsive inventory managemen dashboard built to help retail businesses track stock, manage products, and visualize inventory data. Designed with performance and user experience in mind, it utilizes the latest features of the Next.js App Router.
 
 This project was initialized using [v0.app](https://v0.app) and is continuously integrated with Vercel for deployment.
 
