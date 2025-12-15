@@ -16,11 +16,11 @@ This project was initialized using [v0.app](https://v0.app) and is continuously 
 
 ## ✨ Key Features
 
-* **Real-time Inventory Tracking:** Monitor stock levels and product status.
-* **Product Management:** Interface to add, edit, or remove inventory items.
-* **Responsive Design:** Fully optimized for desktop, tablet, and mobile views.
-* **Modern UI:** Built with Tailwind CSS and Shadcn UI for a clean, accessible interface.
-* **Type Safety:** robust code quality ensured by TypeScript.
+* **Real-time Inventory Tracking:** Monitor stock levels and product status
+* **Product Management:** Interface to add, edit, or remove inventory items
+* **Responsive Design:** Fully optimized for desktop, tablet, and mobile views
+* **Modern UI:** Built with Tailwind CSS and Shadcn UI for a clean, accessible interface
+* **Type Safety:** robust code quality ensured by TypeScript
 
 ## 🛠️ Tech Stack
 
