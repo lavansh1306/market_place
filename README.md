@@ -59,7 +59,7 @@ Follow these steps to set up the project locally on your machine.
     ```
 
 4.  **Open the app**
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
 
 ## 📂 Project Structure
 
